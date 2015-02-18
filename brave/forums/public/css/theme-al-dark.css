@@ -37,6 +37,7 @@ a:hover, a:focus {
 
 a.list-group-item .list-group-item-heading {
   color: #999999;
+  font-weight: bold;
 }
 
 a.list-group-item .list-group-item-heading small {
